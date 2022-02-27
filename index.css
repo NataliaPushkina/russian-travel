@@ -427,6 +427,10 @@ opacity: .7;
     text-decoration: none;
 }
 
+.footer__link:hover {
+    opacity: .7;
+}
+
 .footer__copyright {
     font-size: 14px;
     line-height: 16px;
