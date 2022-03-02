@@ -17,4 +17,4 @@
 
 **Ссылка на проект**
 
-*_____________
+* https://github.com/NataliaPushkina/russian-travel.git
