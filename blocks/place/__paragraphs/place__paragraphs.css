@@ -1,0 +1,7 @@
+.place__paragraphs {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  grid-area: place__paragraphs;
+}
+

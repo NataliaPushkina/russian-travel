@@ -1,0 +1,29 @@
+.footer__nav-item {
+  margin-right: 18px;
+}
+
+.footer__nav-item:last-child {
+  margin-right: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .footer__nav-item {
+    margin-right: 10px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .footer__nav-item {
+    margin-bottom: 32px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__nav-item {
+    margin-left: 16px;
+    margin-bottom: 32px;
+  }
+  .footer__nav-item:last-child {
+    margin-bottom: 0;
+  }
+}
