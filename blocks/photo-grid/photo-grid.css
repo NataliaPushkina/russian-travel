@@ -5,6 +5,12 @@
 
 @media screen and (max-width: 1279px) {
   .photo-grid {
+    padding: 88px 48px 0;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .photo-grid {
     padding: 88px 24px 0;
   }
 }
@@ -15,8 +21,3 @@
   }
 }
 
-@media screen and (max-width: 500px) {
-  .photo-grid {
-    padding: 64px 16px 0;
-  }
-}
