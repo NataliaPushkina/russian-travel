@@ -8,7 +8,7 @@
 * Подключение шрифтов
 * Файловая структура организована по методологии БЭМ Nested
 
-Проект сверстан по макету из Figma, адаптирован под любую ширину экрана. 
+Проект сверстан по макету из Figma, адаптирован под любую ширину экрана.
 
 **Figma**
 
@@ -17,4 +17,4 @@
 
 **Ссылка на проект**
 
-* https://nataliapushkina.github.io/russian-travel/
+<a href="https://nataliapushkina.github.io/russian-travel/" target="_blank">https://nataliapushkina.github.io/russian-travel/</a>
