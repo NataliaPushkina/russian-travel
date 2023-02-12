@@ -16,4 +16,4 @@
 
 <a href="https://nataliapushkina.github.io/russian-travel/" target="_blank">Ссылка на проект</a>
 
-<img src="./images/readme.png" style="width:306px; height:944px;"/>
+<img src="./images/readme.PNG" alt="мобильная версия"/>
