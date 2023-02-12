@@ -15,3 +15,5 @@
 <a href="https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0/" target="_blank">Ссылка на макет в Figma</a>
 
 <a href="https://nataliapushkina.github.io/russian-travel/" target="_blank">Ссылка на проект</a>
+
+<img src="./images/readme.png" style="width:306px; height:944px;"/>

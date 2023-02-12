@@ -12,6 +12,7 @@
   text-decoration: none;
   min-height: 640px;
   object-fit: cover;
+  cursor: default;
 }
 
 .cover__background::after {
